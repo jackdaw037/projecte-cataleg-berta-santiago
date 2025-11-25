@@ -1,0 +1,89 @@
+<?xml-stylesheet type="text/xsl" href="dades.xsl"?>
+<?xml version="1.0" encoding="utf-8"?>
+
+<bookstore>
+
+    <book category="tetris">
+        <title lang="ca">TETRIS</title>
+        <autor>Alekséi Pázhitnov</autor>
+        <anyo>Se publicó el 6 de junio de 1984</anyo>
+        <pais>Moscú, Rusia</pais>
+        <acerca>En el Tetris se juega con los tetrominós,
+            el caso especial de cuatro elementos de poliominós. [...]
+        </acerca>
+    </book>
+
+    <book category="minecraft">
+        <title lang="en">Minecraft</title>
+        <autor>Markus "Notch" Persson</autor>
+        <anyo>El juego fue lanzado oficialmente el 18 de noviembre de 2011</anyo>
+        <pais>Estocolmo, Suecia</pais>
+        <acerca>Minecraft es un videojuego de construcción abierto donde los jugadores
+            pueden crear y explorar mundos generados proceduralmente. Su popularidad
+            lo ha convertido en uno de los juegos más influyentes de la historia.
+        </acerca>
+    </book>
+
+    <book category="gtaV">
+        <title lang="en">Grand Theft Auto V</title>
+        <autor>Rockstar North</autor>
+        <anyo>Lanzado el 17 de septiembre de 2013</anyo>
+        <pais>Edimburgo, Escocia</pais>
+        <acerca>GTA V es un juego de acción-aventura de mundo abierto que destaca
+            por su narrativa, libertad de exploración y su modo multijugador GTA Online.
+        </acerca>
+    </book>
+
+    <book category="wii_sports">
+        <title lang="en">Wii Sports</title>
+        <autor>Nintendo</autor>
+        <anyo>Lanzado el 19 de noviembre de 2006</anyo>
+        <pais>Kioto, Japón</pais>
+        <acerca>Wii Sports es una colección de juegos deportivos diseñada para mostrar
+            las capacidades de control por movimiento de la consola Wii, convirtiéndose
+            en uno de los títulos más vendidos de todos los tiempos.
+        </acerca>
+    </book>
+
+    <book category="pubg">
+        <title lang="en">PlayerUnknown's Battlegrounds</title>
+        <autor>Brendan Greene (PlayerUnknown)</autor>
+        <anyo>Lanzado el 20 de diciembre de 2017</anyo>
+        <pais>Seúl, Corea del Sur</pais>
+        <acerca>PUBG popularizó el género battle royale con partidas de supervivencia
+            donde 100 jugadores compiten hasta quedar solo uno.
+        </acerca>
+    </book>
+
+    <book category="super_mario_bros">
+        <title lang="en">Super Mario Bros.</title>
+        <autor>Shigeru Miyamoto</autor>
+        <anyo>Lanzado el 13 de septiembre de 1985</anyo>
+        <pais>Kioto, Japón</pais>
+        <acerca>Super Mario Bros. es un icónico juego de plataformas que estableció
+            muchas bases del diseño moderno de videojuegos.
+        </acerca>
+    </book>
+
+    <book category="mario_kart_8_deluxe">
+        <title lang="en">Mario Kart 8 Deluxe</title>
+        <autor>Nintendo</autor>
+        <anyo>Lanzado el 28 de abril de 2017</anyo>
+        <pais>Kioto, Japón</pais>
+        <acerca>Versión mejorada de Mario Kart 8, destaca por su jugabilidad accesible
+            y su competitivo multijugador.
+        </acerca>
+    </book>
+
+    <book category="pokemon_rojo_verde_azul_amarillo">
+        <title lang="en">Pokémon Red/Green/Blue/Yellow</title>
+        <autor>Satoshi Tajiri</autor>
+        <anyo>Los primeros juegos se lanzaron entre 1996 y 1998</anyo>
+        <pais>Japón</pais>
+        <acerca>Los primeros juegos de Pokémon introdujeron la mecánica de capturar,
+            entrenar y combatir criaturas, iniciando una de las franquicias más grandes
+            del mundo.
+        </acerca>
+    </book>
+
+</bookstore>

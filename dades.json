@@ -1,0 +1,92 @@
+{
+  "bookstore": [
+    {
+      "category": "tetris",
+      "title": {
+        "lang": "ca",
+        "text": "TETRIS"
+      },
+      "autor": "Alekséi Pázhitnov",
+      "anyo": "Se publicó el 6 de junio de 1984",
+      "pais": "Moscú, Rusia",
+      "acerca": "En el Tetris se juega con los tetrominós, el caso especial de cuatro elementos de poliominós. [...]"
+    },
+    {
+      "category": "minecraft",
+      "title": {
+        "lang": "en",
+        "text": "Minecraft"
+      },
+      "autor": "Markus \"Notch\" Persson",
+      "anyo": "El juego fue lanzado oficialmente el 18 de noviembre de 2011",
+      "pais": "Estocolmo, Suecia",
+      "acerca": "Minecraft es un videojuego de construcción abierto donde los jugadores pueden crear y explorar mundos generados proceduralmente."
+    },
+    {
+      "category": "gtaV",
+      "title": {
+        "lang": "en",
+        "text": "Grand Theft Auto V"
+      },
+      "autor": "Rockstar North",
+      "anyo": "Lanzado el 17 de septiembre de 2013",
+      "pais": "Edimburgo, Escocia",
+      "acerca": "GTA V es un juego de acción-aventura de mundo abierto con una narrativa destacada y el modo multijugador GTA Online."
+    },
+    {
+      "category": "wii_sports",
+      "title": {
+        "lang": "en",
+        "text": "Wii Sports"
+      },
+      "autor": "Nintendo",
+      "anyo": "Lanzado el 19 de noviembre de 2006",
+      "pais": "Kioto, Japón",
+      "acerca": "Wii Sports es una colección de juegos deportivos diseñada para mostrar las capacidades de control por movimiento de la Wii."
+    },
+    {
+      "category": "pubg",
+      "title": {
+        "lang": "en",
+        "text": "PlayerUnknown's Battlegrounds"
+      },
+      "autor": "Brendan Greene (PlayerUnknown)",
+      "anyo": "Lanzado el 20 de diciembre de 2017",
+      "pais": "Seúl, Corea del Sur",
+      "acerca": "PUBG popularizó el género battle royale con partidas donde 100 jugadores compiten hasta quedar uno."
+    },
+    {
+      "category": "super_mario_bros",
+      "title": {
+        "lang": "en",
+        "text": "Super Mario Bros."
+      },
+      "autor": "Shigeru Miyamoto",
+      "anyo": "Lanzado el 13 de septiembre de 1985",
+      "pais": "Kioto, Japón",
+      "acerca": "Un juego icónico de plataformas que estableció muchas bases del diseño moderno."
+    },
+    {
+      "category": "mario_kart_8_deluxe",
+      "title": {
+        "lang": "en",
+        "text": "Mario Kart 8 Deluxe"
+      },
+      "autor": "Nintendo",
+      "anyo": "Lanzado el 28 de abril de 2017",
+      "pais": "Kioto, Japón",
+      "acerca": "Versión mejorada de Mario Kart 8, conocida por su jugabilidad accesible y divertido multijugador."
+    },
+    {
+      "category": "pokemon_rojo_verde_azul_amarillo",
+      "title": {
+        "lang": "en",
+        "text": "Pokémon Red/Green/Blue/Yellow"
+      },
+      "autor": "Satoshi Tajiri",
+      "anyo": "Los primeros juegos se lanzaron entre 1996 y 1998",
+      "pais": "Japón",
+      "acerca": "Introdujeron la mecánica de capturar, entrenar y combatir Pokémon, iniciando una de las mayores franquicias del mundo."
+    }
+  ]
+}
